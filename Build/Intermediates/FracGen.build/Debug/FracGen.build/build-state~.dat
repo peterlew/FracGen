@@ -1,0 +1,72 @@
+TFracGen
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o /Users/peter/Desktop/FracGen/FracGen/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/Cg.framework/Cg
+c00000000476178B50000000000986DC0
+t1197570229
+s9989568
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c0000000050A6693200000000000FFF10
+t1353083186
+s1048336
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005178A63C000000000002DAD0
+t1366861372
+s187088
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/FracGen.LinkFileList
+c0000000051EEC06F0000000000000070
+t1374601327
+s112
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen
+t2
+s0
+
+N/Users/peter/Desktop/FracGen/FracGen/main.cpp
+c0000000051EEBB54000000000000434C
+t1374600020
+s17228
+i<iostream>
+
+CBuild AST from /Users/peter/Desktop/FracGen/FracGen/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9f0555eff79eb741^0fd158eff79eb741^---0#1#0#--18"Check dependencies36"50E85E5F-49EE-4C32-8B75-2C510BCA3953-
+
+CCompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o /Users/peter/Desktop/FracGen/FracGen/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s396294127.359174
+e396294127.936671
+r0
+xCompileC
+xBuild/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o
+x/Users/peter/Desktop/FracGen/FracGen/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/peter/Desktop/FracGen/FracGen/main.cpp:11:10: fatal error: 'Cg/cg.h' file not found
+o#include <Cg/cg.h>
+o         ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/peter/Desktop/FracGen/FracGen/main.cpp6b295ceff79eb741^69c5efeff79eb741^-140"/Users/peter/Desktop/FracGen/FracGen/main.cpp:11:10: fatal error: 'Cg/cg.h' file not found#include <Cg/cg.h>         ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"'Cg/cg.h' file not found-396294127#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file://localhost/Users/peter/Desktop/FracGen/FracGen/main.cpp0000000000000000^10#9#10#9#172#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@61"file://localhost/Users/peter/Desktop/FracGen/FracGen/main.cpp0000000000000000^2730"CompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o FracGen/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peter/Desktop/FracGen    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-generated-files.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-own-target-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-all-target-headers.hmap -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-project-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources/x86_64 -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources -F/Users/peter/Desktop/FracGen/Build/Products/Debug -MMD -MT dependencies -MF /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.dia -c /Users/peter/Desktop/FracGen/FracGen/main.cpp -o /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o36"E2080684-FF0D-4BA1-8DA4-BC034A33CD6B-
+
+CLd /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen normal x86_64
+r0
+

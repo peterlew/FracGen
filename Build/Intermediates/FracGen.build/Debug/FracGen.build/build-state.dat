@@ -1,0 +1,203 @@
+TFracGen
+v5
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o /Users/peter/Desktop/FracGen/FracGen/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen normal i386
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg.h
+c00000000476178B50000000000007D2B
+t1197570229
+s32043
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cgGL.h
+c00000000476178B500000000000044BF
+t1197570229
+s17599
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cgGL_profiles.h
+c00000000476178B50000000000000D59
+t1197570229
+s3417
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg_bindlocations.h
+c00000000476178B50000000000006855
+t1197570229
+s26709
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg_datatypes.h
+c00000000476178B50000000000003420
+t1197570229
+s13344
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg_enums.h
+c00000000476178B500000000000010F9
+t1197570229
+s4345
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg_errors.h
+c00000000476178B50000000000002A53
+t1197570229
+s10835
+
+N/Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Headers/cg_profiles.h
+c00000000476178B500000000000010FA
+t1197570229
+s4346
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c0000000051141DD0000000000000586B
+t1360272848
+s22635
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c0000000051141DD200000000000066C2
+t1360272850
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/unistd.h
+c0000000051141DD30000000000006762
+t1360272851
+s26466
+
+N/Users/peter/Desktop/FracGen/../../../../Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg
+c00000000476178B50000000000986DC0
+t1197570229
+s9989568
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/Cg.framework/Cg
+c00000000476178B50000000000986DC0
+t1197570229
+s9989568
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c0000000050A6693200000000000FFF10
+t1353083186
+s1048336
+
+N/Users/peter/Desktop/FracGen/../../../../System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000005178A63C000000000002DAD0
+t1366861372
+s187088
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/FracGen.LinkFileList
+c0000000051EEC127000000000000006E
+t1374601511
+s110
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/FracGen.LinkFileList
+c0000000051EEC06F0000000000000070
+t1374601327
+s112
+
+N/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o
+t1374601483
+s33936
+
+N/Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen
+t2
+s0
+
+N/Users/peter/Desktop/FracGen/FracGen/main.cpp
+c0000000051EEC10B000000000000434E
+t1374601483
+s17230
+i<iostream>
+i<GLUT/GLUT.h>
+i<Cg/cgGL.h>
+i<Cg/cgGL.h>
+i<unistd.h>
+i<math.h>
+
+CBuild AST from /Users/peter/Desktop/FracGen/FracGen/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaf9950a7f89eb741^231457a7f89eb741^---0#1#0#--18"Check dependencies36"22B60B85-0E07-4CE6-A0F1-9FF675471E94-
+
+CCompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o /Users/peter/Desktop/FracGen/FracGen/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s396294311.347160
+e396294311.919603
+r1
+xCompileC
+xBuild/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o
+x/Users/peter/Desktop/FracGen/FracGen/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/peter/Desktop/FracGen/FracGen/main.cpp072859a7f89eb741^626aeba7f89eb741^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/peter/Desktop/FracGen/FracGen/main.cpp0000000000000000^2768"CompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o FracGen/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peter/Desktop/FracGen    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-generated-files.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-own-target-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-all-target-headers.hmap -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-project-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources/i386 -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources -F/Users/peter/Desktop/FracGen/Build/Products/Debug "-F/Applications/Max5/Cycling '74/jitter-externals" -MMD -MT dependencies -MF /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.dia -c /Users/peter/Desktop/FracGen/FracGen/main.cpp -o /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/main.o36"32ED8212-B32E-4F00-B194-056144FAB7D3-
+
+CCompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o /Users/peter/Desktop/FracGen/FracGen/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s396294283.308471
+e396294283.845501
+r1
+xCompileC
+xBuild/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o
+x/Users/peter/Desktop/FracGen/FracGen/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/peter/Desktop/FracGen/FracGen/main.cpp06134f8bf89eb741^5c72d88bf89eb741^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/peter/Desktop/FracGen/FracGen/main.cpp0000000000000000^2782"CompileC Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o FracGen/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peter/Desktop/FracGen    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-generated-files.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-own-target-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-all-target-headers.hmap -iquote /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/FracGen-project-headers.hmap -I/Users/peter/Desktop/FracGen/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources/x86_64 -I/Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/DerivedSources -F/Users/peter/Desktop/FracGen/Build/Products/Debug "-F/Applications/Max5/Cycling '74/jitter-externals" -MMD -MT dependencies -MF /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.dia -c /Users/peter/Desktop/FracGen/FracGen/main.cpp -o /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/main.o36"52554DCA-EC1A-4D37-BB24-980742BFB217-
+
+CLd /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen normal i386
+s396294311.930668
+e396294311.991449
+r1
+xLd
+x/Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Link /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen91d4eea7f89eb741^3dd1fda7f89eb741^---0#0#0#--780"Ld Build/Products/Debug/FracGen normal i386    cd /Users/peter/Desktop/FracGen    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/peter/Desktop/FracGen/Build/Products/Debug -F/Users/peter/Desktop/FracGen/Build/Products/Debug "-F/Applications/Max5/Cycling '74/jitter-externals" -filelist /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/i386/FracGen.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework OpenGL -framework GLUT -framework Cg -o /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen36"48F13B67-4D3E-478B-9B57-8C14D9E34875-
+
+CLd /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen normal x86_64
+s396294283.852256
+e396294283.967117
+r0
+xLd
+x/Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen
+xnormal
+xx86_64
+old: warning: ignoring file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg, missing required architecture x86_64 in file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg (2 slices)
+oUndefined symbols for architecture x86_64:
+o  "_cgCreateContext", referenced from:
+o      _main in main.o
+o  "_cgCreateProgramFromFile", referenced from:
+o      newScenes(int, int) in main.o
+o      _main in main.o
+o  "_cgGLBindProgram", referenced from:
+o      newScenes(int, int) in main.o
+o      _main in main.o
+o  "_cgGLEnableProfile", referenced from:
+o      newScenes(int, int) in main.o
+o      _main in main.o
+o  "_cgGLGetLatestProfile", referenced from:
+o      _main in main.o
+o  "_cgGLLoadProgram", referenced from:
+o      newScenes(int, int) in main.o
+o      _main in main.o
+o  "_cgGLSetParameter1f", referenced from:
+o      _main in main.o
+o      display() in main.o
+o  "_cgGLSetParameter2f", referenced from:
+o      display() in main.o
+o  "_cgGLUnbindProgram", referenced from:
+o      newScenes(int, int) in main.o
+o  "_cgGetNamedParameter", referenced from:
+o      _main in main.o
+o      display() in main.o
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Link /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen7c61da8bf89eb741^5394f78bf89eb741^-1234"ld: warning: ignoring file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg, missing required architecture x86_64 in file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg (2 slices)Undefined symbols for architecture x86_64:  "_cgCreateContext", referenced from:      _main in main.o  "_cgCreateProgramFromFile", referenced from:      newScenes(int, int) in main.o      _main in main.o  "_cgGLBindProgram", referenced from:      newScenes(int, int) in main.o      _main in main.o  "_cgGLEnableProfile", referenced from:      newScenes(int, int) in main.o      _main in main.o  "_cgGLGetLatestProfile", referenced from:      _main in main.o  "_cgGLLoadProgram", referenced from:      newScenes(int, int) in main.o      _main in main.o  "_cgGLSetParameter1f", referenced from:      _main in main.o      display() in main.o  "_cgGLSetParameter2f", referenced from:      display() in main.o  "_cgGLUnbindProgram", referenced from:      newScenes(int, int) in main.o  "_cgGetNamedParameter", referenced from:      _main in main.o      display() in main.old: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)29(21%IDEActivityLogMessage2@198"Ignoring file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg, missing required architecture x86_64 in file /Applications/Max5/Cycling '74/jitter-externals/Cg.framework/Cg (2 slices)-396294283#0#212#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--2@36""_cgCreateContext", referenced from:-396294283#255#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-396294283#294#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@44""_cgCreateProgramFromFile", referenced from:-396294283#316#47#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@29"NewScenes(int, int) in main.o-396294283#363#36#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@15"_main in main.o-396294283#399#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@36""_cgGLBindProgram", referenced from:-396294283#421#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@29"NewScenes(int, int) in main.o-396294283#460#36#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@15"_main in main.o-396294283#496#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@38""_cgGLEnableProfile", referenced from:-396294283#518#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@29"NewScenes(int, int) in main.o-396294283#559#36#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@15"_main in main.o-396294283#595#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@41""_cgGLGetLatestProfile", referenced from:-396294283#617#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-396294283#661#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@36""_cgGLLoadProgram", referenced from:-396294283#683#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@29"NewScenes(int, int) in main.o-396294283#722#36#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@15"_main in main.o-396294283#758#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@39""_cgGLSetParameter1f", referenced from:-396294283#780#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-396294283#822#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@19"Display() in main.o-396294283#844#26#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@39""_cgGLSetParameter2f", referenced from:-396294283#870#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@19"Display() in main.o-396294283#912#26#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@38""_cgGLUnbindProgram", referenced from:-396294283#938#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@29"NewScenes(int, int) in main.o-396294283#979#36#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@40""_cgGetNamedParameter", referenced from:-396294283#1015#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--2@15"_main in main.o-396294283#1058#22#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@19"Display() in main.o-396294283#1080#26#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@43"Symbol(s) not found for architecture x86_64-396294283#1106#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-396294283#1154#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Linker (ld) Error--0#0#0#--786"Ld Build/Products/Debug/FracGen normal x86_64    cd /Users/peter/Desktop/FracGen    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/peter/Desktop/FracGen/Build/Products/Debug -F/Users/peter/Desktop/FracGen/Build/Products/Debug "-F/Applications/Max5/Cycling '74/jitter-externals" -filelist /Users/peter/Desktop/FracGen/Build/Intermediates/FracGen.build/Debug/FracGen.build/Objects-normal/x86_64/FracGen.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework OpenGL -framework GLUT -framework Cg -o /Users/peter/Desktop/FracGen/Build/Products/Debug/FracGen36"627AD96A-18E7-4CA6-BACD-091364ECFACD-
+
